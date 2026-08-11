@@ -29,7 +29,7 @@ The project only uses Python's standard library, so no additional packages are r
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vini-23/task-tracker.git
 ```
 
 Enter the project directory:
